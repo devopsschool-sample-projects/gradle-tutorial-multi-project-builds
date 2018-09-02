@@ -8,3 +8,5 @@
  */
 
 rootProject.name = 'gradle-tutorial-multi-project-builds'
+include 'greeting-library'
+include 'greeter'
